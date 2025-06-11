@@ -6,7 +6,8 @@ layout: single
 author_profile: true
 ---
 
-Cyber security Student with the Cybershujaa program. Some of my lab projects that I have tackled include:
+Cyber security Student with the Cybershujaa program. Some of my lab projects that I have tackled include
+
 1.Project A
 2.Project B
 3.Project C
