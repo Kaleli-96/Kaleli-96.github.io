@@ -6,35 +6,34 @@
 author_profile: true
 ---
 
-# 👋 Hello, I'm Munyao Festus
+ 👋 Hello, I'm Munyao Festus
 
 **CyberSecurity** • **Learner** • **Tech Enthusiast**
 
-Welcome to my  GitHub portfolio! Here you'll find some of my Journey into ybersecurity starting projects, a bit about me, and a downloadable CV.
+Welcome to my  GitHub portfolio! Here you'll find the start of my Journey into cybersecurity starting projects, a bit about me, and a downloadable CV.
 
 ---
 
 ## 🚀 Projects
 
-### [🔗 Project One](https://github.com/yourusername/project-one)
-This has been introduction to Cybersecurity one of the first project I have undertaken.
+### [🔗 Project One](https://academy.hackthebox.com/achievement/1809602/18)
+This has been introduction to Cybersecurity one of the first project I have undertaken, This module enhanced and introduced me to the workings of the linux machine, CTFs are and how this machines work.
 
-**Technologies:** HTML, CSS, JavaScript
+### [🔗 Project Two](https://academy.hackthebox.com/achievement/1809602/34)
+This Module Introcuded me to the inner workings of a windows machine, the different commands to achieve desired output. 
 
----
+### [🔗 Project One](https://academy.hackthebox.com/achievement/1809602/49)
+This Module Introcuded me to the inner workings of a Network fundementals the different layers in an OSI modules, and how they communicate with each other and transfer of data.
 
-### [🔗 Project Two](https://github.com/yourusername/project-two)
-Short explanation about this project and what you learned.
-
-**Technologies:** React, Tailwind CSS, Firebase
+### [🔗 Project One](https://academy.hackthebox.com/achievement/1809602/49)
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate Cybersecurity Analyst who is passionate about securing resources that we use on  daily basis. I enjoy undertaking CTF challenges and continuously learning new tools and technologies.
+I'm a passionate Cybersecurity Analyst who is passionate about securing resources that we use on  daily basis. I enjoy undertaking CTF challenges and continuously learning new tools and technologies. Working on my practise lab. 
   
-- 🌱 I’m learning: Cyptography and other tools in cybersecurity(
+- 🌱 I’m learning: Cyptography and other tools in cybersecurity
 - 💬 Ask me about: network mapping, Coding, and penetration testing tips
 
 ---
@@ -44,9 +43,6 @@ I'm a passionate Cybersecurity Analyst who is passionate about securing resource
 You can download my latest CV here:
 
 👉 [**Download CV (PDF)**](./MUNYAO FESTUS CV.pdf)
-
-
-
 
 
 ---
