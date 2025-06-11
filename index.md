@@ -14,20 +14,23 @@ Welcome to my  GitHub portfolio! Here you'll find the start of my Journey into c
 
 ---
 
-## 🚀 Projects
+## 🚀 Learning Curve
 
 ### [🔗 Project One](https://academy.hackthebox.com/achievement/1809602/18)
 This has been introduction to Cybersecurity one of the first project I have undertaken, This module enhanced and introduced me to the workings of the linux machine, CTFs are and how this machines work.
 
 ### [🔗 Project Two](https://academy.hackthebox.com/achievement/1809602/34)
-This Module Introcuded me to the inner workings of a windows machine, the different commands to achieve desired output. 
+This Module Introduced me to the inner workings of a windows machine, the different commands to achieve desired output. 
 
-### [🔗 Project One](https://academy.hackthebox.com/achievement/1809602/49)
+### [🔗 Project Three](https://academy.hackthebox.com/achievement/1809602/49)
 This Module Introcuded me to the inner workings of a Network fundementals the different layers in an OSI modules, and how they communicate with each other and transfer of data.
 
-### [🔗 Project One](https://academy.hackthebox.com/achievement/1809602/49)
+## 🏆 Certification
 
----
+## 🛡️ Fortinet Certified Associate – Cybersecurity
+
+[![Fortinet Certified Badge](https://images.credly.com/images/7c137865-5ae4-4b13-901c-2f375eec0c9c/image.png)](https://www.credly.com/badges/0f088e22-b152-4719-9539-682baa7c113d/linked_in_profile)
+
 
 ## 👨‍💻 About Me
 
@@ -35,6 +38,17 @@ I'm a passionate Cybersecurity Analyst who is passionate about securing resource
   
 - 🌱 I’m learning: Cyptography and other tools in cybersecurity
 - 💬 Ask me about: network mapping, Coding, and penetration testing tips
+---
+## SKills
+-Cryptography                               
+-Networking basics (TCP/IP, ports, firewalls)
+-Active Directory enumeration and attacks
+-Web application security (SQLi, XSS, SSRF, IDOR, etc.)
+-Shell scripting and automation (Bash, Python, PowerShell)
+-Information gathering (reconnaissance)
+-Exploitation of vulnerabilities (web, OS, software)
+-Privilege escalation (Linux/Windows)
+-Post-exploitation techniques
 
 ---
 
