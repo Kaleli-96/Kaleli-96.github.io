@@ -1,28 +1,30 @@
+---
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# layout: Single
 author_profile: true
 ---
 
 # 👋 Hello, I'm Munyao Festus
 
-**Cybersecurity** • **Learner** • **Tech Enthusiast**
+**CyberSecurity** • **Learner** • **Tech Enthusiast**
 
-Welcome to my GitHub portfolio! Here you'll find some of my journey into cybersecurity, starting projects, a bit about me, and a downloadable CV.
+Welcome to my  GitHub portfolio! Here you'll find some of my Journey into ybersecurity starting projects, a bit about me, and a downloadable CV.
 
 ---
 
 ## 🚀 Projects
 
 ### [🔗 Project One](https://github.com/yourusername/project-one)
-This was my introduction to cybersecurity—one of the first projects I undertook.
+This has been introduction to Cybersecurity one of the first project I have undertaken.
 
 **Technologies:** HTML, CSS, JavaScript
 
 ---
 
 ### [🔗 Project Two](https://github.com/yourusername/project-two)
-A short explanation about this project and what I learned.
+Short explanation about this project and what you learned.
 
 **Technologies:** React, Tailwind CSS, Firebase
 
@@ -30,11 +32,10 @@ A short explanation about this project and what I learned.
 
 ## 👨‍💻 About Me
 
-I'm a passionate Cybersecurity Analyst committed to securing the digital tools we rely on daily.  
-I enjoy undertaking CTF (Capture The Flag) challenges and continuously learning new tools and technologies.
-
-- 🌱 I’m learning: Cryptography and other cybersecurity tools  
-- 💬 Ask me about: Network mapping, coding, and penetration testing tips
+I'm a passionate Cybersecurity Analyst who is passionate about securing resources that we use on  daily basis. I enjoy undertaking CTF challenges and continuously learning new tools and technologies.
+  
+- 🌱 I’m learning: Cyptography and other tools in cybersecurity(
+- 💬 Ask me about: network mapping, Coding, and penetration testing tips
 
 ---
 
@@ -42,9 +43,11 @@ I enjoy undertaking CTF (Capture The Flag) challenges and continuously learning 
 
 You can download my latest CV here:
 
-👉 [**Download CV (PDF)**](./MUNYAO%20FESTUS%20CV.pdf)
+👉 [**Download CV (PDF)**](./MUNYAO FESTUS CV.pdf)
 
-> ⚠️ Make sure `MUNYAO FESTUS CV.pdf` is uploaded to the same folder in the repo. Spaces must be encoded as `%20`.
+
+
+
 
 ---
 
@@ -54,6 +57,5 @@ You can download my latest CV here:
 - 💼 LinkedIn: [linkedin.com/in/munyao-mwendwa-9871211a9](https://www.linkedin.com/in/munyao-mwendwa-9871211a9)  
 - 🌐 Website: [sites.google.com/view/munyao-festus/project-page](https://sites.google.com/view/munyao-festus/project-page)
 
----
 
-<p align="center">© 2025 Munyao Festus</p>
+---
