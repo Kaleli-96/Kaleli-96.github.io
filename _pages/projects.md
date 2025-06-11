@@ -1,6 +1,6 @@
 ---
 title: "Posts by projects"
-permalink: /projects/
-layout:projects
+permalink:/projects/
+layout: pojects
 author_profile: true
 ---
