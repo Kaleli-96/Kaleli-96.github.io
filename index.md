@@ -7,10 +7,19 @@ author_profile: true
 ---
 
 
-
 **CyberSecurity** • **Learner** • **Tech Enthusiast**
 
 Welcome to my  GitHub portfolio! Here you'll find the start of my Journey into cybersecurity starting projects, a bit about me, and a downloadable CV.
+
+**Education**
+[OCT 2023]  - [JAN 2024]
+[Coursera]
+[Google  Digital Marketing & E-Commerce Professional certificate]
+[University of London] 
+[Brand management: aligning business, brand and behavior ]
+[JAN 2017]  - [DEC 2021]
+[University Of Nairobi]
+[Bachelor Of Arts, Peace and Conflict Resolution & Tourism and Hospitality  Management]
 
 ---
 
