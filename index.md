@@ -2,7 +2,7 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: splash
+layout: Single
 author_profile: true
 ---
 
@@ -10,7 +10,7 @@ author_profile: true
 
 **CyberSecurity** • **Learner** • **Tech Enthusiast**
 
-Welcome to my personal GitHub portfolio! Here you'll find some of my favorite projects, a bit about me, and a downloadable CV.
+Welcome to my  GitHub portfolio! Here you'll find some of my starting projects, a bit about me, and a downloadable CV.
 
 ---
 
@@ -47,15 +47,16 @@ You can download my latest CV here:
 
 > 📌 To include your CV, just upload your `your-cv-filename.pdf` to this repository (same folder as this markdown file).
 
-If you’d like a custom version or have questions about my experience, feel free to reach out!
+
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: [yourname@example.com](mailto:yourname@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+#- 📧 Email: [yourname@example.com](mailto:Festuskaleli44@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourusername](www.linkedin.com/in/munyao-mwendwa-9871211a9)  
+- 🌐 [My Website](https://sites.google.com/view/munyao-festus/project-page)
+
 
 ---
 
