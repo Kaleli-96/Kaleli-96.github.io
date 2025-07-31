@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rejesha Project Summary</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    code {
+      background: #f0f0f0;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Rejesha Project Summary</h1>
+
+  <h2>Objective</h2>
+  <p>Build a secure form that collects <strong>name</strong> and <strong>email</strong> inputs from users and stores them in a MariaDB database, while implementing basic security protections including input validation and CSRF protection.</p>
+
+  <h2>Steps Undertaken</h2>
+
+  <h3>1. HTML Form Creation</h3>
+  <ul>
+    <li>Created an HTML form in <code>index.html</code> with <code>POST</code> method.</li>
+    <li>Fields included: name, email, and CSRF token.</li>
+  </ul>
+
+  <h3>2. PHP Backend Logic</h3>
+  <ul>
+    <li><code>success.php</code> was used to process form submission.</li>
+    <li>Started session and enabled error reporting.</li>
+    <li>Connected to MariaDB using <code>mysqli</code>.</li>
+    <li>Sanitized and validated input data.</li>
+    <li>Checked for duplicate email before insertion.</li>
+    <li>Used prepared statements to prevent SQL injection.</li>
+    <li>Displayed error message on <code>index.html</code> if email was already used.</li>
+  </ul>
+
+  <h3>3. Database Setup</h3>
+  <ul>
+    <li>Created MariaDB database <code>rejesha</code>.</li>
+    <li>Created table <code>registrations</code> with fields: id, name, email, created_at.</li>
+    <li>Used auto-increment for <code>id</code> and default timestamp for <code>created_at</code>.</li>
+  </ul>
+
+  <h3>4. Security Improvements</h3>
+  <ul>
+    <li>CSRF token generation and validation.</li>
+    <li>Input sanitization using <code>preg_replace</code> and <code>filter_var</code>.</li>
+    <li>Used <code>hash_equals</code> for CSRF token verification.</li>
+    <li>Basic error messages shown without exposing sensitive server errors.</li>
+  </ul>
+
+  <h2>Current Status</h2>
+  <ul>
+    <li>Form submissions are being stored securely in the database.</li>
+    <li>Duplicate email registrations are blocked with a clear message.</li>
+    <li>All server-side errors are caught and handled gracefully.</li>
+    <li>Frontend is clean, and backend logic is functioning correctly.</li>
+  </ul>
+
+  <h2>Next Steps</h2>
+  <ul>
+    <li>Add email confirmation (optional).</li>
+    <li>Implement HTTPS in production.</li>
+    <li>Deploy on secure web server (Apache/Nginx).</li>
+    <li>Regularly update PHP and MariaDB for security patches.</li>
+  </ul>
+</body>
+</html>
